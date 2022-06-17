@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**QaitoLax/QaitoLax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+  <div class="brand-logo"></div>
+  <div class="brand-title">HOME</div>
+  <div class="inputs">
+    <label>EMAIL</label>
+    <input type="email" placeholder="example@test.com" />
+    <label>PASSWORD</label>
+    <input type="password" placeholder="Min 6 charaters long" />
+    <button type="submit">LOGIN</button>
+  </div>
+  <a href="https://twitter.com/prathkum">QaitoLax</a>
+</div>
+</body>
+</html>
